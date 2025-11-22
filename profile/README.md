@@ -5,8 +5,8 @@
 A next-generation web browser featuring a custom engine, modular design, and strong privacy focus.
 Planned release date: 2nd half of 2026
 
-[![Website](https://img.shields.io/badge/-Website-blue?style=for-the-badge)](https://browser.solar/)
-[![Docs](https://img.shields.io/badge/-Documentation-blue?style=for-the-badge)](https://browser.solar/documentation)
-[![Download](https://img.shields.io/badge/-Download-blue?style=for-the-badge)](https://browser.solar/download)
-[![Support](https://img.shields.io/badge/-Support-blue?style=for-the-badge)](https://browser.solar/support)
+[![Website](https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logoColor=white)](https://browser.solar/)
+[![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge&logoColor=white)](https://browser.solar/documentation)
+[![Download](https://img.shields.io/badge/Download-FFD700?style=for-the-badge&logoColor=white)](https://browser.solar/download)
+[![Support](https://img.shields.io/badge/Support-FFD700?style=for-the-badge&logoColor=white)](https://browser.solar/support)
 
