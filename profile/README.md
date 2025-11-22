@@ -1,6 +1,6 @@
 <img src="./logo.png" align="left" width="200"/>
 
-### `Solar Browser`
+### Solar Browser
 
 A next-generation web browser featuring a custom engine, modular design, and strong privacy focus.
 Planned release date: 2nd half of 2026
