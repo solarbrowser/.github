@@ -3,7 +3,6 @@
 ### Solar Browser
 
 The future of web browsing. Fast, secure, and beautifully minimal.
-Planned release date: 2nd half of 2026
 
 [![Website](https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logoColor=white)](https://browser.solar/)
 [![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge&logoColor=white)](https://browser.solar/documentation)
